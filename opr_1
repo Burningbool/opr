@@ -5,9 +5,9 @@
 　　<description>this is description</description>   
 　　<link>https://google.com</link>    
 　　<item> 
-　　<title>title</title>           //item的标题
-　　<link>https://bing.com</link>           //item的url
-　　<description>description</description>        //item的介绍
+　　<title>title</title>          
+　　<link>https://bing.com</link>           
+　　<description>description</description>       
    <p>"word"</p>
 　　</item> 
 </channel>
